@@ -1,0 +1,17 @@
+  <!DOCTYPE html>
+  <body>
+      <h1><center>MY BIODATA</hl></title>
+	  
+	  <p><i>Name : Nurul Hasanah Binti Abd. Rashid </p></i>
+	  <p><i>Age : 20 years old</p></i>
+	  <p><i>Date of Birth :17<sup>th</sup>May 2001</p></i>
+	  <p><i>Place of Birth : Taiping, Perak</p></i>
+	  <p><i>Hobby : Cycling</p></i>
+	  <p><i>Phone Number : 011-26302616</p></i>
+	  <br>
+	  <p><b>VISIT MY EMAIL OR TWITTER AT</p></b>
+	  
+	  <p><a href=https://twitter.com/hasanahrashid_">Visit my twitter.</p></a>
+	  <a href="mailto:ome0592@gmail.com">Visit my email</a>
+  </body>
+  </html> 
